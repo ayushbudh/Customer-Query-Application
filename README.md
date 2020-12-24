@@ -25,4 +25,4 @@
 
 <span><img src="screenshots/Snip1.png" width="310px" height="364px"></span>
 <span><img src="screenshots/Snip2.png" width="310px"></span>
-<span><img src="screenshots/Snip2.png" width="310px" ></span>
+<span><img src="screenshots/Snip2.png" width="310px"></span>
