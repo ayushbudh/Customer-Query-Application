@@ -23,6 +23,6 @@
 <h2>Application Demo</h2>
 
 
-<span><img src="screenshots/Snip1.png" width="310px" height="364px"></span>
-<span><img src="screenshots/Snip2.png" width="310px"></span>
-<span><img src="screenshots/Snip2.png" width="310px"></span>
+<span><img src="screenshots/Snip1.png" width="300px" height="355px"></span>
+<span><img src="screenshots/Snip2.png" width="300px"></span>
+<span><img src="screenshots/Snip2.png" width="300px"></span>
